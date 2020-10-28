@@ -1,5 +1,5 @@
 ### postgres-to-excel-data-export-python
-App for data export
+App for data export/import from/to postgres/excel
 
 #### How to run:
 1. Install Docker/docker-compose
